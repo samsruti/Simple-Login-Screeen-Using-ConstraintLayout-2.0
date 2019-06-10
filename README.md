@@ -1,5 +1,5 @@
 # Simple Login Screen (Constraint Layout + Motion Layout)
-A presentation at Google I/O Extended 19, Bhubaneswar of how to build modern screens using modern layouts like constraint layout, motion layout, and other.
+A demo project done during a presentation at Google I/O Extended 19, Bhubaneswar of how to build modern screens using modern layouts like constraint layout, motion layout, and other.
 
 You can find my presentation here: https://speakerdeck.com/samsruti/building-modern-screens-using-modern-layouts-in-android
 
